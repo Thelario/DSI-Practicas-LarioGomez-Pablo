@@ -1,0 +1,26 @@
+- Práctica 2:
+- - - - No estilar en cada etiqueta con style="". En vez de eso estilar en el archivo main.css.
+- - - - Mejorar la paleta de colores (hacer más bonita la página web).
+- - - - Explicar los cambios que haga.
+
+paleta:
+- BFACB5
+- DD9F84
+- AD3F2E
+- 523C4E
+- 0B1320
+
+Commit Entrega Práctica 2 o hacer un release.
+
+- Práctica 3:
+- - - - Barra de navegación de las distintas páginas con un componente sticky.
+- - - - Flex y relative positions y demás.
+
+Commit Entrega Práctica 3 o hacer un release.
+
+- Práctica 4:
+- - - - Comportamiento responsivo para móviles.
+- - - - Adaptar el contenido utilizando grid y seleccionar un móvil y adaptarlo al móvil.
+- - - - Sustituir los elementos flex de la práctica 3 por elementos grid.
+
+Commit Entrega Práctica 4 o hacer un release.
